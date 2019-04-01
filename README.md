@@ -2,9 +2,11 @@
 
 Awesome Veeam - A Community List of AWESOME Veeam Resources create by the community to the community.
 
-AwesomeVeeam - by [@homelaber](#https://twitter.com/homelaber)
+[#AwesomeVeeam](https://twitter.com/search?f=tweets&vertical=default&q=%23AwesomeVeeam&src=typd) - by [@homelaber](#https://twitter.com/homelaber)
 
-<center> <img src="media/veeamawesome.png" alt="AwesomeVeeam"></center>
+![Veeam Awesome][logo]
+
+[logo]: media/veeamawesome.png "Veeam Awesome"
 
 ---
 <h2>Table of Contents</h2>
