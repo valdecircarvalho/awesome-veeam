@@ -1,0 +1,104 @@
+Links Úteis
+Melhores Práticas: https://bp.veeam.expert
+Demos 1: http://veeam.foonet.be/
+Demos 2: https://veeam.university/demo/vmtsp
+Restore Point Calculator: http://rps.dewin.me/
+Virtual Architect: http://rps.dewin.me/VirtualArchitect/
+Ferramenta para size: http://sizer.kasparick.com
+Download de versões antigas: https://www.veeam.com/older-versions-download.html
+
+https://www.veeam.com/
+
+https://www.veeam.com/data-center-availability-suite.html
+
+
+
+Veeam Live Records
+
+https://www.veeam.com/veeamlive-on-demand.html
+
+
+Webinars
+
+https://www.veeam.com/videos.html
+
+Product Demos
+
+https://www.veeam.com/product-demo.html
+
+Resource Library
+
+https://www.veeam.com/resource-library.html
+
+Veeam Help Center (Technical Documentation)
+https://www.veeam.com/documentation-guides-datasheets.html
+
+White Papers
+https://www.veeam.com/whitepapers.html
+
+Veeam Training and Education Services
+https://www.veeam.com/edservices.html
+    Free Online Training
+    https://www.veeam.com/veeam-free-online-training.html
+    Veeam Training and Certification
+    https://www.veeam.com/vmce.html
+
+Veeam Community Forums
+https://forums.veeam.com/
+
+KB
+https://www.veeam.com/kb_search_results.html
+
+Last Updates
+https://www.veeam.com/updates.html
+
+Previous versions of Veeam Products
+https://www.veeam.com/older-versions-download.html
+(needs login)
+
+Veeam Blog
+https://www.veeam.com/blog/
+
+Veeam Executive Blog
+https://www.veeam.com/executive-blog/
+
+
+Veeam user Groups
+https://go.veeam.com/user-groups.html
+
+Veeam User Group Community Resources
+Take advantage of all these great resources available to Veeam User Group members. Be sure to subscribe below to receive notifications as new materials become available.
+
+
+Twitter
+Keep up with VUG happenings via Twitter
+@Veeam | #veeam
+
+
+Veeam Community Podcast
+Get the latest industry news, developments and trends
+
+
+Veeam Training and Education Services
+Gain a knowledge of Veeam products through online courses
+
+
+Veeam Blog
+The Veeam Blog shares news on all things Veeam from several different perspectives. Hear from Veeam executives, engineers, product evangelists, and more
+
+
+Veeam Community Forums
+Go straight to the source with your questions, by following and contributing to the Veeam Community Forums, moderated by our product development team
+
+
+Veeam Live
+Check out upcoming and on‑demand broadcasts from our systems engineers with news and developments, best practices, tips and tricks and whiteboarding sessions
+
+Company
+https://www.veeam.com/company/about.html
+https://www.veeam.com/contacts.html
+
+
+Jobs
+https://careers.veeam.com/
+
