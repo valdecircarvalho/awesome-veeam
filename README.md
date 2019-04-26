@@ -121,6 +121,33 @@ Awesome Veeam - A Community List of AWESOME Veeam Resources create by the commun
 
 ## Veeam on Twitter
 
+- **Enterprise accounts:**
+
+**Veeam® Software**
+[@Veeam](https://twitter.com/Veeam) 
+Veeam® is the global leader in Intelligent Data Management. A 2017 Gartner MQ Leader and Forbes Cloud 100 company. Support: @VeeamSupport #datamanagement
+
+**Veeam Support**
+[@VeeamSupport](https://twitter.com/VeeamSupport)
+Official account for Veeam Customer Support. We're available every weekday.
+
+**VeeamVanguard**
+[@VeeamVanguard](https://twitter.com/VeeamVanguard)
+Official Account of the #VeeamVanguard program. We're comprised of a hand-picked list of folks that @Veeam feels best embrace the brand in their IT communities.
+
+- **Veeam Employees:**
+
+**Anton Gostev**
+[@gostev](https://twitter.com/gostev)
+Senior Vice President, Product Management at Veeam Software, the guy behind Veeam Backup & Replication. Microsoft MVP, VMware vExpert
+
+**Rick Vanover**
+[@RickVanover](https://twitter.com/RickVanover) Segue você
+RICKATRON. I work @Veeam. vSphere, Hyper-V, Windows server, storage, hardware, cloud. Father, Husband, Work in Progress. vExpert/Cisco Champion. Fly @Delta.
+
+- Community: 
+
+
 ---
 
 ## Veeam Blogs
