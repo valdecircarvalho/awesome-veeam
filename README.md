@@ -24,6 +24,9 @@ Awesome Veeam - A Community List of AWESOME Veeam Resources create by the commun
 - [Veeam Scripts](#veeam-scripts)
 - [Learn Veeam](#learn-veeam)
 - [Veeam on Twitter](#veeam-on-twitter)
+  - [**Veeam Enterprise Accounts:**](#veeam-enterprise-accounts)
+  - [**Veeam Employees:**](#veeam-employees)
+  - [**Veeam Community:**](#veeam-community)
 - [Veeam Blogs](#veeam-blogs)
 - [Veeam Youtube Channels](#veeam-youtube-channels)
 - [Veeam Youtube Videos](#veeam-youtube-videos)
@@ -81,9 +84,6 @@ Awesome Veeam - A Community List of AWESOME Veeam Resources create by the commun
 
 - [Veeam Backup & Replication Best Practices](https://bp.veeam.expert/)
 
-
-
-
 ----
 
 ## Veeam Release Notes
@@ -121,7 +121,7 @@ Awesome Veeam - A Community List of AWESOME Veeam Resources create by the commun
 
 ## Veeam on Twitter
 
-- **Enterprise accounts:**
+### **Veeam Enterprise Accounts:**
 
 **Veeam® Software**<br>
 [@Veeam](https://twitter.com/Veeam) 
@@ -135,7 +135,7 @@ Official account for Veeam Customer Support. We're available every weekday.
 [@VeeamVanguard](https://twitter.com/VeeamVanguard)
 Official Account of the #VeeamVanguard program. We're comprised of a hand-picked list of folks that @Veeam feels best embrace the brand in their IT communities.
 
-- **Veeam Employees:**
+### **Veeam Employees:**
 
 **Anton Gostev**<br>
 [@gostev](https://twitter.com/gostev)
@@ -145,8 +145,15 @@ Senior Vice President, Product Management at Veeam Software, the guy behind Veea
 [@RickVanover](https://twitter.com/RickVanover) Segue você
 RICKATRON. I work @Veeam. vSphere, Hyper-V, Windows server, storage, hardware, cloud. Father, Husband, Work in Progress. vExpert/Cisco Champion. Fly @Delta.
 
-- Community: 
+### **Veeam Community:**
 
+**Matt Crape**
+[@MattThatITGuy](https://twitter.com/MattThatITGuy) 
+Awesome Canadian. Former guardian of the great @VannyVanguard. Bringer of delicious Coffee Crisps. IT master. Veeam Vanguard. Tweets are mine. Work @VMwareTAM
+
+**Karel Novak**
+[@novakkkarel](https://twitter.com/novakkkarel) 
+VCI-Level2,VCIX6-NV/VCIX6-DCV,vExpert12-17,vExpert NSX 16-18.VMUG CZ Leader, VMCT-Mentor, Veeam Certified Architect,Veeam Vanguard,TechFieldDayDelegate
 
 ---
 
